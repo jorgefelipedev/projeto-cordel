@@ -22,7 +22,7 @@ html, body {
 }
 
 header {
-    height: 25vh;
+    height: 17vh;
     background-color: black;
     background-image: url(imagens/cordeltopo.png);
     background-repeat: no-repeat;
@@ -55,7 +55,7 @@ section {
     padding-left: 30px;
     line-height: 2em;
     font-family: var(--font3);
-    font-size: 3.5vw;
+    font-size: 5vw;
     
 }
 
